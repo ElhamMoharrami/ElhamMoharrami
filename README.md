@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elham</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **Learning as much as I can**
 
 - 🌱 I’m currently learning **Every tool I happen to need**
 
